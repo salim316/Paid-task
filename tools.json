@@ -1,0 +1,189 @@
+[
+  {
+    "name": "Freecash",
+    "category": "مهام مصغرة",
+    "url": "https://freecash.com/",
+    "rating": 3.5,
+    "trust": "متوسطة إلى جيدة",
+    "payment": "PayPal، بنكي، Venmo، كريبتو، بطاقات هدايا",
+    "minWithdraw": "5–20 دولار حسب المنطقة",
+    "countries": "أمريكا، كندا، بريطانيا، أوروبا، ودول أخرى",
+    "notes": "ليست مخصصة لمشاهدة الإعلانات. العائد الأساسي من الألعاب والعروض. تقييم Trustpilot 4.6/5."
+  },
+  {
+    "name": "RewardJoy",
+    "category": "مشاهدة إعلانات",
+    "url": "https://www.rewardjoy.com/",
+    "rating": 2.5,
+    "trust": "متوسطة إلى منخفضة",
+    "payment": "نقدًا أو بطاقات هدايا",
+    "minWithdraw": "غير مؤكد رسميًا (يُذكر 5000 نقطة)",
+    "countries": "عالمي، لكن العروض تختلف حسب البلد",
+    "notes": "الاسم الجديد لـ CoinPayU. يشمل إعلانات وألعاب واستبيانات. شكاوى من ارتفاع حد السحب بعد إعادة التسمية."
+  },
+  {
+    "name": "Earnably",
+    "category": "مهام مصغرة",
+    "url": "https://earnably.com/",
+    "rating": 3.0,
+    "trust": "متوسطة",
+    "payment": "PayPal وبطاقات هدايا",
+    "minWithdraw": "10000 نقطة = 1 دولار",
+    "countries": "الولايات المتحدة وأوروبا، لكن القوائم تختلف",
+    "notes": "تتضمن أحيانًا عروض فيديو. تقييم Trustpilot 4.0/5 من 1553 مراجعة."
+  },
+  {
+    "name": "Reward XP",
+    "category": "مهام مصغرة",
+    "url": "https://www.rewardxp.com/",
+    "rating": 2.5,
+    "trust": "متوسطة",
+    "payment": "PayPal، Venmo، بطاقات هدايا، USDC",
+    "minWithdraw": "5 دولارات",
+    "countries": "أكثر من 100 بلد، لكن الجزائر غير مذكورة",
+    "notes": "التركيز على الألعاب والعروض. مشاهدة الفيديو غير موثقة بوضوح."
+  },
+  {
+    "name": "Cointiply",
+    "category": "عملات رقمية",
+    "url": "https://www.cointiply.com/",
+    "rating": 3.0,
+    "trust": "متوسطة",
+    "payment": "Bitcoin، Dogecoin، Dash، Litecoin",
+    "minWithdraw": "50000 Coin للبيتكوين، 30000 للبقية",
+    "countries": "تسجيل عالمي، لكن العروض تختلف حسب البلد",
+    "notes": "معالجة السحب خلال 24–72 ساعة. تقييم Trustpilot 3.6/5 من ~4800 مراجعة."
+  },
+  {
+    "name": "NeoBux",
+    "category": "الدفع مقابل النقر",
+    "url": "https://www.neobux.com/",
+    "rating": 3.0,
+    "trust": "متوسطة",
+    "payment": "Skrill، NETELLER، Volet، كريبتو، بنكي",
+    "minWithdraw": "2 دولار (يرتفع تدريجيًا إلى 10)",
+    "countries": "تسجيل دولي، لكن الإعلانات تختلف",
+    "notes": "موقع PTC قديم. العائد من النقرات وحدها صغير جدًا. له منتدى إثباتات دفع نشط."
+  },
+  {
+    "name": "adBTC",
+    "category": "الدفع مقابل النقر",
+    "url": "https://adbtc.top/",
+    "rating": 2.0,
+    "trust": "منخفضة إلى متوسطة",
+    "payment": "Bitcoin (FaucetPay أو محفظة مباشرة)",
+    "minWithdraw": "من 500 ساتوشي (يختلف حسب طريقة السحب)",
+    "countries": "يقبل دولًا كثيرة، لكن كثافة الإعلانات حسب البلد",
+    "notes": "الأجر يبدأ من 2 ساتوشي لكل نقرة. شكاوى من تعليق الحسابات قرب السحب."
+  },
+  {
+    "name": "TimeBucks",
+    "category": "مشاهدة إعلانات",
+    "url": "https://timebucks.com/",
+    "rating": 2.5,
+    "trust": "متوسطة إلى منخفضة",
+    "payment": "PayPal، بنكي، AirTM، Payeer، Skrill، بطاقات، كريبتو",
+    "minWithdraw": "5 دولارات",
+    "countries": "دول كثيرة، لكن الفيديوهات حسب المعلنين",
+    "notes": "الدفع أسبوعيًا. تقييم Trustpilot غير متاح حاليًا بسبب مخالفة إرشادات."
+  },
+  {
+    "name": "JumpTask",
+    "category": "مهام مصغرة",
+    "url": "https://jumptask.io/",
+    "rating": 2.5,
+    "trust": "متوسطة إلى منخفضة",
+    "payment": "بطاقات هدايا، بطاقات مسبقة، كريبتو عبر GIFQ",
+    "minWithdraw": "1 دولار أول سحب، ثم 0.50 دولار",
+    "countries": "أكثر من 100 بلد حسب المنصة",
+    "notes": "تتضمن مشاهدة فيديو وألعاب واستبيانات. الشكاوى من فشل مدفوعات وتقييد حسابات."
+  },
+  {
+    "name": "InboxDollars",
+    "category": "مشاهدة إعلانات",
+    "url": "https://www.inboxdollars.com/",
+    "rating": 2.5,
+    "trust": "متوسطة",
+    "payment": "PayPal، بطاقات هدايا، خيارات نقدية",
+    "minWithdraw": "15 دولار أول سحب، ثم 10",
+    "countries": "الولايات المتحدة فقط",
+    "notes": "تدّعي دفع أكثر من 80 مليون دولار. ميزة الفيديو غير محسومة في 2026."
+  },
+  {
+    "name": "GPTPlanet",
+    "category": "الدفع مقابل النقر",
+    "url": "https://www.gptplanet.com/",
+    "rating": 1.5,
+    "trust": "منخفضة",
+    "payment": "Payeer، Bitcoin، Litecoin، AirTM، FaucetPay",
+    "minWithdraw": "1.05 دولار أول سحب، ثم 2 دولار",
+    "countries": "دولي، لكن العروض تختلف",
+    "notes": "معالجة قد تصل إلى 7 أيام. تقييم Trustpilot 3.4/5 من 59 مراجعة فقط."
+  },
+  {
+    "name": "TimeWall",
+    "category": "مشاهدة إعلانات",
+    "url": "https://timewall.io/",
+    "rating": 2.5,
+    "trust": "متوسطة إلى منخفضة",
+    "payment": "بنكي، AirTM، Payeer، Bitcoin، Litecoin، USDT",
+    "minWithdraw": "يعتمد على المنصة الشريكة",
+    "countries": "دولي، لكن السحب يعتمد على الشريك",
+    "notes": "شبكة مهام وإعلانات، ليست تطبيقًا مستقلًا. تقييم Trustpilot 3.9/5 من ~16000 مراجعة."
+  },
+  {
+    "name": "WeAre8",
+    "category": "مشاهدة إعلانات",
+    "url": "https://www.weare8.com/",
+    "rating": 1.0,
+    "trust": "منخفضة",
+    "payment": "PayPal فقط",
+    "minWithdraw": "1 جنيه إسترليني أو 1 دولار",
+    "countries": "أمريكا، بريطانيا، أستراليا، نيوزيلندا",
+    "notes": "الأقرب لفئة مشاهدة الإعلانات الحقيقية. لكن شكاوى دفعات معلقة لأشهر. تقييم Trustpilot 1.9/5."
+  },
+  {
+    "name": "HideoutTV",
+    "category": "مشاهدة إعلانات",
+    "url": "https://hideout.tv/",
+    "rating": 2.0,
+    "trust": "منخفضة إلى متوسطة",
+    "payment": "عبر موقع مكافآت شريك (ليس مباشرًا)",
+    "minWithdraw": "يعتمد على الشريك",
+    "countries": "يعتمد على الشريك والبلد",
+    "notes": "الدفع يتم عبر شريك مثل Lootup. لا يمكن اعتبار النقاط مالًا نقديًا قبل وصولها للشريك."
+  },
+  {
+    "name": "Scarlet Clicks",
+    "category": "الدفع مقابل النقر",
+    "url": "https://www.scarlet-clicks.info/",
+    "rating": 1.0,
+    "trust": "منخفضة",
+    "payment": "غير مؤكد (قائمة قديمة أو متضاربة)",
+    "minWithdraw": "2 دولار",
+    "countries": "دولي",
+    "notes": "شكاوى حديثة من تعذر الدخول ومشاكل سحب. لا يُنصح بها حاليًا."
+  },
+  {
+    "name": "Prolific",
+    "category": "استبيانات",
+    "url": "https://www.prolific.com/",
+    "rating": 4.8,
+    "trust": "جيدة",
+    "payment": "PayPal أو تحويل بنكي",
+    "minWithdraw": "يُحدد عند التسجيل حسب البلد",
+    "countries": "أمريكا، بريطانيا، أوروبا، وكندا بشكل رئيسي",
+    "notes": "منصة أكاديمية موثوقة للاستبيانات. عائد مرتفع نسبيًا مقارنة بالبدائل."
+  },
+  {
+    "name": "Neevo",
+    "category": "تدريب الذكاء الاصطناعي",
+    "url": "https://www.neevo.ai/",
+    "rating": 3.5,
+    "trust": "جيدة",
+    "payment": "PayPal",
+    "minWithdraw": "يختلف حسب المهمة",
+    "countries": "دولي، لكن المهام تختلف",
+    "notes": "مهام بسيطة لتصنيف النصوص والصور وتدريب الذكاء الاصطناعي. لا تحتاج خبرة."
+  }
+]
