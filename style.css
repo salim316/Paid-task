@@ -1,0 +1,151 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, sans-serif;
+  background: #0f172a;
+  color: #e2e8f0;
+  line-height: 1.7;
+  padding: 0 12px;
+}
+
+header {
+  text-align: center;
+  padding: 30px 16px 20px;
+}
+
+header h1 {
+  font-size: 1.6rem;
+  color: #38bdf8;
+  margin-bottom: 8px;
+}
+
+header p {
+  color: #94a3b8;
+  font-size: 0.9rem;
+}
+
+nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+  margin: 20px 0;
+}
+
+.filter-btn {
+  background: #1e293b;
+  color: #cbd5e1;
+  border: 1px solid #334155;
+  padding: 8px 14px;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.filter-btn.active,
+.filter-btn:hover {
+  background: #38bdf8;
+  color: #0f172a;
+  border-color: #38bdf8;
+}
+
+#tools-container {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 16px;
+  max-width: 900px;
+  margin: 0 auto 40px;
+}
+
+.card {
+  background: #1e293b;
+  border: 1px solid #334155;
+  border-radius: 12px;
+  padding: 18px;
+  transition: transform 0.2s, border-color 0.2s;
+}
+
+.card:hover {
+  transform: translateY(-3px);
+  border-color: #38bdf8;
+}
+
+.card h2 {
+  font-size: 1.2rem;
+  color: #38bdf8;
+  margin-bottom: 6px;
+}
+
+.category-tag {
+  display: inline-block;
+  background: #0f172a;
+  color: #94a3b8;
+  font-size: 0.75rem;
+  padding: 3px 10px;
+  border-radius: 12px;
+  margin-bottom: 10px;
+}
+
+.rating {
+  color: #fbbf24;
+  font-size: 0.9rem;
+  margin-bottom: 10px;
+}
+
+.trust {
+  display: inline-block;
+  font-size: 0.75rem;
+  padding: 3px 10px;
+  border-radius: 12px;
+  margin-right: 8px;
+  background: #334155;
+}
+
+.trust.جيدة { background: #166534; color: #bbf7d0; }
+.trust.متوسطة { background: #854d0e; color: #fef3c7; }
+.trust.منخفضة { background: #7f1d1d; color: #fecaca; }
+
+.card p {
+  font-size: 0.9rem;
+  color: #cbd5e1;
+  margin: 6px 0;
+}
+
+.card p strong {
+  color: #e2e8f0;
+}
+
+.card a {
+  display: inline-block;
+  margin-top: 12px;
+  background: #38bdf8;
+  color: #0f172a;
+  text-decoration: none;
+  padding: 8px 18px;
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: 0.9rem;
+}
+
+.card a:hover {
+  background: #0ea5e9;
+}
+
+footer {
+  text-align: center;
+  padding: 30px 16px;
+  color: #64748b;
+  font-size: 0.8rem;
+}
+
+@media (min-width: 700px) {
+  #tools-container {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
